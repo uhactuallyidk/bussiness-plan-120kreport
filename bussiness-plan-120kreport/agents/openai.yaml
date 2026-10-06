@@ -1,0 +1,7 @@
+interface:
+  display_name: "Business Plan 120k Report"
+  short_description: "Evidence-grounded business plans"
+  default_prompt: "Use $bussiness-plan-120kreport to analyze this business and build an evidence-grounded business-plan draft."
+
+policy:
+  allow_implicit_invocation: true
